@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/Milei1-exa/static/css/main.be30a0ea.css",
-    "main.js": "/Milei1-exa/static/js/main.cd8b2a4d.js",
+    "main.js": "/Milei1-exa/static/js/main.d5ddc89a.js",
     "static/js/787.8d0fad9a.chunk.js": "/Milei1-exa/static/js/787.8d0fad9a.chunk.js",
+    "static/media/mileivillaruel.png": "/Milei1-exa/static/media/mileivillaruel.e25fc9952d397cfe5e4d.png",
+    "static/media/LLA.png": "/Milei1-exa/static/media/LLA.8fdce410c623ab2dc208.png",
+    "static/media/LLAtext.png": "/Milei1-exa/static/media/LLAtext.25f5fb4663767b44b322.png",
     "index.html": "/Milei1-exa/index.html",
     "main.be30a0ea.css.map": "/Milei1-exa/static/css/main.be30a0ea.css.map",
-    "main.cd8b2a4d.js.map": "/Milei1-exa/static/js/main.cd8b2a4d.js.map",
+    "main.d5ddc89a.js.map": "/Milei1-exa/static/js/main.d5ddc89a.js.map",
     "787.8d0fad9a.chunk.js.map": "/Milei1-exa/static/js/787.8d0fad9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be30a0ea.css",
-    "static/js/main.cd8b2a4d.js"
+    "static/js/main.d5ddc89a.js"
   ]
 }
