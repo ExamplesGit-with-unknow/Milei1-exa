@@ -1,0 +1,41 @@
+.ctr {
+    text-align: center;
+}
+
+.tablaPropuestas {
+    border-collapse: collapse;
+
+    width: 98%;
+    margin: auto;
+}
+
+.tablaPropuestas th,
+.tablaPropuestas td {
+    border: 1px solid #1b0065;
+    text-align: left;
+    padding: 8px;
+}
+
+.tablaPropuestas th {
+    background-color: rgb(56, 155, 242);
+}
+
+.tablaPropuestas{
+    .T{
+        background-color: rgba(43, 255, 0, 0.5);
+    }
+    .i{
+        background-color: rgba(247, 251, 0, 0.5);
+    }
+    .F{
+        background-color: rgba(255, 0, 0, 0.5);
+    }
+    .na{
+        background-color: rgba(204, 151, 253, 0.4);
+    }
+}
+
+.tablaPropuestas>tr>td:first-child{
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
