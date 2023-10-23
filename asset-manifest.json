@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Milei1-exa/static/css/main.3e48764c.css",
+    "main.css": "/Milei1-exa/static/css/main.be30a0ea.css",
     "main.js": "/Milei1-exa/static/js/main.cd8b2a4d.js",
     "static/js/787.8d0fad9a.chunk.js": "/Milei1-exa/static/js/787.8d0fad9a.chunk.js",
     "index.html": "/Milei1-exa/index.html",
-    "main.3e48764c.css.map": "/Milei1-exa/static/css/main.3e48764c.css.map",
+    "main.be30a0ea.css.map": "/Milei1-exa/static/css/main.be30a0ea.css.map",
     "main.cd8b2a4d.js.map": "/Milei1-exa/static/js/main.cd8b2a4d.js.map",
     "787.8d0fad9a.chunk.js.map": "/Milei1-exa/static/js/787.8d0fad9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e48764c.css",
+    "static/css/main.be30a0ea.css",
     "static/js/main.cd8b2a4d.js"
   ]
 }
