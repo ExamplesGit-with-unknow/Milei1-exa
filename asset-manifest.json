@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Milei1-exa/static/css/main.3e48764c.css",
+    "main.js": "/Milei1-exa/static/js/main.a18c82ef.js",
+    "static/js/787.8d0fad9a.chunk.js": "/Milei1-exa/static/js/787.8d0fad9a.chunk.js",
+    "index.html": "/Milei1-exa/index.html",
+    "main.3e48764c.css.map": "/Milei1-exa/static/css/main.3e48764c.css.map",
+    "main.a18c82ef.js.map": "/Milei1-exa/static/js/main.a18c82ef.js.map",
+    "787.8d0fad9a.chunk.js.map": "/Milei1-exa/static/js/787.8d0fad9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e48764c.css",
+    "static/js/main.a18c82ef.js"
+  ]
+}
